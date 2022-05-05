@@ -9,16 +9,16 @@ a = np.random.randint(2,10, (3,4))<br>
 b = np.random.randint(2,10, (4,3))<br>
 print(a)<br>
 print(b)<br>
-[[3 6 4 9]
- [7 4 6 7]
+[[3 6 4 9]<br>
+ [7 4 6 7]<br>
  [5 6 8 6]]<br>
-[[2 7 7]
- [4 3 7]
- [2 5 3]
+[[2 7 7]<br>
+ [4 3 7]<br>
+ [2 5 3]<br>
  [5 3 6]]<br>
 a.dot(b)<br>
-array([[ 83,  86, 129],
-       [ 77, 112, 137],
+array([[ 83,  86, 129],<br>
+       [ 77, 112, 137],<br>
        [ 80, 111, 137]])<br>
 #Your code here<br>
 3)Read the csv file provided using pandas and display the first 5 entries<br>
